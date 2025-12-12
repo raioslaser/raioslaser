@@ -1,5 +1,5 @@
 ## Hello World!
-- 🔭 I’m currently working on: Web development.
+- 🔭 I’m currently working on: My personal website.
 - 🌱 I’m currently learning: Programming basics.
 - 👯 I’m looking to collaborate on: Anything i can do.
 - 🤔 I’m looking for help with: Javascript.
